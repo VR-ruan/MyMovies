@@ -18,7 +18,7 @@ body {
 }
 
 #container {
-    background-color: rgba(0, 0, 0, 0.342);
+    background-color: rgba(0, 0, 0, 0.192);
     border: 1px solid rgba(255, 255, 255, 0.39);
     border-radius: 1rem;
 
@@ -69,7 +69,6 @@ input:hover{
 }
 
 h1 {
-    cursor: pointer;
     opacity: 0.9;
     margin-bottom: 1rem;
     color: white;
