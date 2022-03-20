@@ -45,6 +45,7 @@ input {
     border-radius: 0.25rem;
     border: none;
     outline: 0;
+    transition: 0.5s;
 }
 
 input:hover{
@@ -53,13 +54,14 @@ input:hover{
 
 #login {
     border-radius: 0.25rem;
-    opacity: 0.9;
+    opacity: 0.5;
     width: 84%;
     height: 2rem;
     padding: 0.25rem;
     border: none;
     outline: 0;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 #login:hover {
