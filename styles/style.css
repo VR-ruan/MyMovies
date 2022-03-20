@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arvo', serif;
+    background: linear-gradient(133deg, rgba(202,4,236,1) 0%, rgba(54,9,121,1) 52%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+}
+
+#container {
+    background-color: rgba(0, 0, 0, 0.568);
+    border: 1px solid rgba(255, 255, 255, 0.39);
+    border-radius: 1rem;
+
+    width: 400px;
+    height: 300px;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 0.25rem;
+    border: none;
+
+}
